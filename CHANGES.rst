@@ -4,7 +4,8 @@ Changelog
 2.0 - unreleased
 ----------------
 
--
+- End Of Life: starting with Plone 5.X.Y release collective.indexing has been
+  merged into Plone core. The functionality provided by it is already available
 
 
 2.0b1 - 2013-02-16
