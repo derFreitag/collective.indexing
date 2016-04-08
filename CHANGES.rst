@@ -4,8 +4,8 @@ Changelog
 2.1 (unreleased)
 ----------------
 
-- Nothing changed yet.
-
+- Re-release with a verison that is higher than 2.0a2.
+  [gforcada]
 
 2.0.dev0 (2016-04-08)
 ---------------------
