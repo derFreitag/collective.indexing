@@ -7,6 +7,15 @@ Changelog
 - Add a method to remove the monkey patches.
   [gforcada]
 
+- Fix a bug on the index operations optimization: attributes are
+  expected to be a list
+  [gforcada]
+
+- Bug: do not downgrade full reindexes to partial ones
+  [gforcada]
+
+- Patch CatalogAware objects as well, so comments are also indexed.
+  [gforcada]
 
 2.0b1 - 2013-02-16
 ------------------
