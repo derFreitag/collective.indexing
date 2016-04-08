@@ -1,8 +1,8 @@
 Changelog
 =========
 
-2.1 (unreleased)
-----------------
+2.0rc0 (2016-04-08)
+-------------------
 
 - Re-release with a verison that is higher than 2.0a2.
   [gforcada]
