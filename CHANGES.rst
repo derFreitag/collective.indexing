@@ -1,8 +1,8 @@
 Changelog
 =========
 
-2.0 - unreleased
-----------------
+2.0.dev0 (2016-04-08)
+---------------------
 
 - Add a method to remove the monkey patches.
   [gforcada]
