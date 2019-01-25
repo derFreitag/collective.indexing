@@ -1,8 +1,8 @@
 Changelog
 =========
 
-2.1.1 (unreleased)
-------------------
+2.1.0.post0 (2019-01-25)
+------------------------
 
 - Fix a bug on the index operations optimization: attributes are
   expected to be a list
