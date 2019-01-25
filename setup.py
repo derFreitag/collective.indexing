@@ -2,7 +2,7 @@ from setuptools import find_packages
 from setuptools import setup
 
 
-version = '2.1.0.post0'
+version = '2.1.0.post1.dev0'
 
 setup(name = 'collective.indexing',
       version = version,
